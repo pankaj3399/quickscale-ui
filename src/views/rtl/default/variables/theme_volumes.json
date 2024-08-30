@@ -1,0 +1,57 @@
+[
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Diffusion Models",
+        "sub_theme_repo_volume": 76
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Gen AI Agent workflow",
+        "sub_theme_repo_volume": 64
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Image Generation",
+        "sub_theme_repo_volume": 51
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "LORA QLORA Fine tuning RLHF",
+        "sub_theme_repo_volume": 18
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Large Language Models (LLM)",
+        "sub_theme_repo_volume": 236
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Music and Art Generation",
+        "sub_theme_repo_volume": 121
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Prompt Engineering",
+        "sub_theme_repo_volume": 74
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Retrieval Augmented Generation (RAG)",
+        "sub_theme_repo_volume": 299
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Synthetic Data Generation",
+        "sub_theme_repo_volume": 146
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Vector Database",
+        "sub_theme_repo_volume": 55
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Vision Language Models",
+        "sub_theme_repo_volume": 72
+    }
+]

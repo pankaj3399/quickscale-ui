@@ -1,0 +1,50 @@
+[
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Image Generation"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Vector Database"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Style Transfer"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "theme": "Generative AI",
+        "sub_theme": "Synthetic Data Generation"
+    }
+]

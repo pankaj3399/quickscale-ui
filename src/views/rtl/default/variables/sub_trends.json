@@ -1,0 +1,1477 @@
+[
+    {
+        "date": "2021-01",
+        "value": 2,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2021-01",
+        "value": 6,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-01",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-01",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2021-02",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2021-02",
+        "value": 1,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2021-02",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2021-02",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-02",
+        "value": 1,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2021-02",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-02",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2021-03",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2021-03",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2021-03",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-03",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-03",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2021-03",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2021-04",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2021-04",
+        "value": 5,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-04",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2021-05",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2021-05",
+        "value": 4,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-05",
+        "value": 4,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-06",
+        "value": 1,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2021-06",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-06",
+        "value": 1,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2021-06",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-06",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2021-07",
+        "value": 2,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2021-07",
+        "value": 1,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2021-07",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-07",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2021-07",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2021-08",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-08",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-08",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2021-09",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2021-09",
+        "value": 2,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2021-09",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-09",
+        "value": 5,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-09",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2021-09",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2021-10",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2021-10",
+        "value": 2,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2021-10",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-10",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-10",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2021-11",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2021-11",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2021-11",
+        "value": 1,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-11",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2021-12",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2021-12",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2021-12",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2021-12",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2022-01",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-01",
+        "value": 2,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2022-01",
+        "value": 2,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-01",
+        "value": 6,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-01",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-02",
+        "value": 1,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2022-02",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-02",
+        "value": 4,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-02",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2022-03",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-03",
+        "value": 1,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-03",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-03",
+        "value": 4,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-03",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-04",
+        "value": 2,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-04",
+        "value": 2,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-04",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-04",
+        "value": 1,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2022-04",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-04",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2022-05",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-05",
+        "value": 3,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2022-05",
+        "value": 1,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-05",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-05",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-05",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2022-05",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-06",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-06",
+        "value": 1,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-06",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-06",
+        "value": 7,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-06",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-07",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-07",
+        "value": 1,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2022-07",
+        "value": 2,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-07",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-07",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2022-07",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-08",
+        "value": 5,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-08",
+        "value": 2,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2022-08",
+        "value": 4,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2022-08",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-08",
+        "value": 2,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2022-08",
+        "value": 5,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-08",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2022-08",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-09",
+        "value": 5,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-09",
+        "value": 3,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2022-09",
+        "value": 3,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-09",
+        "value": 6,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-09",
+        "value": 2,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2022-09",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-10",
+        "value": 6,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-10",
+        "value": 2,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-10",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-10",
+        "value": 2,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2022-10",
+        "value": 1,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2022-10",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-10",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2022-10",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-11",
+        "value": 6,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-11",
+        "value": 3,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2022-11",
+        "value": 2,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2022-11",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2022-11",
+        "value": 5,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-11",
+        "value": 4,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-11",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2022-11",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2022-12",
+        "value": 5,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2022-12",
+        "value": 3,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2022-12",
+        "value": 5,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2022-12",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2022-12",
+        "value": 3,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2022-12",
+        "value": 1,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2022-12",
+        "value": 1,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-01",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-01",
+        "value": 2,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-01",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-01",
+        "value": 5,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-01",
+        "value": 4,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-01",
+        "value": 4,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-01",
+        "value": 1,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-01",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-01",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-02",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-02",
+        "value": 6,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-02",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-02",
+        "value": 2,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-02",
+        "value": 4,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-02",
+        "value": 3,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-02",
+        "value": 1,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-02",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-02",
+        "value": 3,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-02",
+        "value": 6,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-03",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-03",
+        "value": 5,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-03",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-03",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-03",
+        "value": 20,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-03",
+        "value": 7,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-03",
+        "value": 7,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-03",
+        "value": 1,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-03",
+        "value": 8,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-03",
+        "value": 3,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-03",
+        "value": 6,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-04",
+        "value": 4,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-04",
+        "value": 7,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-04",
+        "value": 5,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-04",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-04",
+        "value": 23,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-04",
+        "value": 5,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-04",
+        "value": 14,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-04",
+        "value": 4,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-04",
+        "value": 7,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-04",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-05",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-05",
+        "value": 4,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-05",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-05",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-05",
+        "value": 28,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-05",
+        "value": 6,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-05",
+        "value": 8,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-05",
+        "value": 5,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-05",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-05",
+        "value": 3,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-05",
+        "value": 7,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-06",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-06",
+        "value": 3,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-06",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-06",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-06",
+        "value": 21,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-06",
+        "value": 7,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-06",
+        "value": 2,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-06",
+        "value": 10,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-06",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-06",
+        "value": 5,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-06",
+        "value": 3,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-07",
+        "value": 2,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-07",
+        "value": 3,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-07",
+        "value": 18,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-07",
+        "value": 5,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-07",
+        "value": 3,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-07",
+        "value": 7,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-07",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-07",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-07",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-08",
+        "value": 2,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-08",
+        "value": 5,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-08",
+        "value": 4,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-08",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-08",
+        "value": 14,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-08",
+        "value": 4,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-08",
+        "value": 4,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-08",
+        "value": 11,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-08",
+        "value": 5,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-08",
+        "value": 4,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-09",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-09",
+        "value": 5,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-09",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-09",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-09",
+        "value": 15,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-09",
+        "value": 2,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-09",
+        "value": 1,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-09",
+        "value": 15,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-09",
+        "value": 6,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-09",
+        "value": 3,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-09",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-10",
+        "value": 1,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-10",
+        "value": 2,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-10",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-10",
+        "value": 13,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-10",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-10",
+        "value": 4,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-10",
+        "value": 29,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-10",
+        "value": 9,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-10",
+        "value": 2,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-11",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-11",
+        "value": 4,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-11",
+        "value": 4,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-11",
+        "value": 8,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-11",
+        "value": 9,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-11",
+        "value": 4,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-11",
+        "value": 24,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-11",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-11",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-11",
+        "value": 3,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2023-12",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2023-12",
+        "value": 2,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2023-12",
+        "value": 2,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2023-12",
+        "value": 3,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2023-12",
+        "value": 16,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2023-12",
+        "value": 2,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2023-12",
+        "value": 3,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2023-12",
+        "value": 23,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2023-12",
+        "value": 8,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2023-12",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2023-12",
+        "value": 7,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2024-01",
+        "value": 3,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2024-01",
+        "value": 1,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2024-01",
+        "value": 7,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2024-01",
+        "value": 3,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2024-01",
+        "value": 2,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2024-01",
+        "value": 37,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2024-01",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2024-01",
+        "value": 1,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2024-01",
+        "value": 4,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2024-02",
+        "value": 3,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2024-02",
+        "value": 1,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2024-02",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2024-02",
+        "value": 3,
+        "sub_theme": "LORA QLORA Fine tuning RLHF"
+    },
+    {
+        "date": "2024-02",
+        "value": 7,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2024-02",
+        "value": 2,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2024-02",
+        "value": 1,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2024-02",
+        "value": 38,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2024-02",
+        "value": 8,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2024-02",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2024-02",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2024-03",
+        "value": 1,
+        "sub_theme": "Diffusion Models"
+    },
+    {
+        "date": "2024-03",
+        "value": 4,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2024-03",
+        "value": 2,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2024-03",
+        "value": 2,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2024-03",
+        "value": 38,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2024-03",
+        "value": 3,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2024-03",
+        "value": 2,
+        "sub_theme": "Vector Database"
+    },
+    {
+        "date": "2024-03",
+        "value": 3,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2024-04",
+        "value": 3,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2024-04",
+        "value": 1,
+        "sub_theme": "Image Generation"
+    },
+    {
+        "date": "2024-04",
+        "value": 6,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2024-04",
+        "value": 2,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2024-04",
+        "value": 1,
+        "sub_theme": "Prompt Engineering"
+    },
+    {
+        "date": "2024-04",
+        "value": 29,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2024-04",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2024-05",
+        "value": 3,
+        "sub_theme": "Gen AI Agent workflow"
+    },
+    {
+        "date": "2024-05",
+        "value": 2,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2024-05",
+        "value": 1,
+        "sub_theme": "Music and Art Generation"
+    },
+    {
+        "date": "2024-05",
+        "value": 18,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+        "date": "2024-05",
+        "value": 2,
+        "sub_theme": "Synthetic Data Generation"
+    },
+    {
+        "date": "2024-05",
+        "value": 1,
+        "sub_theme": "Vision Language Models"
+    },
+    {
+        "date": "2024-06",
+        "value": 2,
+        "sub_theme": "Large Language Models (LLM)"
+    },
+    {
+        "date": "2024-06",
+        "value": 8,
+        "sub_theme": "Retrieval Augmented Generation (RAG)"
+    }
+]

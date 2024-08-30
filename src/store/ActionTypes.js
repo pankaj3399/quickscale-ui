@@ -1,0 +1,5 @@
+export const SET_THEME = "SET_THEME";
+export const SET_SUB_THEME = "SET_SUB_THEME";
+export const SET_IS_FILTER_ENABLED = "SET_IS_FILTER_ENABLED";
+export const ADD_SUB_THEME = "ADD_SUB_THEME";
+export const REMOVE_SUB_THEME = "REMOVE_SUB_THEME";
